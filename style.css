@@ -39,6 +39,7 @@ body {
 .audio-player #playAudio.pause {
   background: url("images/volume-up-4-xxl.png") no-repeat center;
   background-size: contain;
+  cursor: pointer;
 }
 
 .logo {
