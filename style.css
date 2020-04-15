@@ -33,13 +33,11 @@ body {
   border: none;
   width: 30px;
   height: 30px;
-  background: url("https://www.iconsdb.com/icons/preview/white/mute-2-xxl.png")
-    no-repeat center;
+  background: url(images/mute-2-xxl.png) no-repeat center;
   background-size: contain;
 }
 .audio-player #playAudio.pause {
-  background: url("https://www.iconsdb.com/icons/preview/white/volume-up-4-xxl.png")
-    no-repeat center;
+  background: url("/images/volume-up-4-xxl.png") no-repeat center;
   background-size: contain;
 }
 

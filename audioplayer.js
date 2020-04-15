@@ -8,7 +8,7 @@ let ui = {
   audio: "audio",
   percentage: "percentage",
   seekObj: "seekObj",
-  currentTime: "currentTime"
+  currentTime: "currentTime",
 };
 
 function togglePlay() {
